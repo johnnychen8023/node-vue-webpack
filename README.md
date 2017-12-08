@@ -1,6 +1,6 @@
-使用node.js+Vue.js+webpack做一个报名系统
+使用node.js+Vue.js+webpack做的一个简单的报名系统
 
-1、安装,server与client文件目录下
+1、安装,分别在server与client文件目录下
 
 执行命令npm install 
 
